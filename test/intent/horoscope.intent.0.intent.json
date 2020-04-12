@@ -1,0 +1,7 @@
+{
+    "intent": {
+        "sign": "Aries"
+    },
+    "intent_type": "horoscope.intent",
+    "utterance": "What is the Aries horoscope for today?"
+}
