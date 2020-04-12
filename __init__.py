@@ -8,7 +8,7 @@ class Horoscope(MycroftSkill):
 
     @intent_file_handler('horoscope.intent')
     def handle_horoscope(self, message):
-        sign = message.data['sign']
+        sign = message.data.get('sign', '')
         apiUrl = "http://sandipbgt.com/theastrologer/api/horoscope/%s/today/" %sign
         text = urllib.request.urlopen(apiUrl).read()
         full_resp = json.loads(text)
