@@ -5,12 +5,13 @@ Provides the user's horoscope for that day
 The user can ask about the horoscope for a particular zodiac sign and will recieve the prediction for that day.
 
 ## Examples
-* "What is the {sign} horoscope for today?"
-* "Tell me the {sign} horoscope"
-* "What is today's {sign} horoscope"
+* "What is the Aries horoscope for today?"
+* "Tell me the Taurus horoscope?"
+* "What is today's Virgo horoscope?"
 
 ## Credits
 samhithatarra
+Horoscopes provided by: (c) Kelli Fox, The Astrologer, http://new.theastrologer.com
 
 ## Category
 **Daily**
