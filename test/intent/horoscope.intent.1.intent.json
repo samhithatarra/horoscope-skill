@@ -1,7 +1,0 @@
-{   "expected_dialog": "Today, you're a hothead in the best sense of the word. Your mind is onwith new ideas and plans! This excitement is hard to contain, so don't even try. Go ahead and direct it toward whatever new venture or course of study you're envisioning. Get out into the world. Absorb new influences. Make new friends. Find allies who can help you create the reality you're dreaming of.",
-    "intent": {
-        "sign": "aries"
-    },
-    "intent_type": "horoscope.intent",
-    "utterance": "Tell me the aries horoscope"
-}

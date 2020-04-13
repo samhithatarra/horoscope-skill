@@ -3,5 +3,5 @@
         "sign": "Aries"
     },
     "intent_type": "horoscope.intent",
-    "utterance": "What is the Aries horoscope for today?"
+    "utterance": "Tell me the Aries horoscope"
 }
