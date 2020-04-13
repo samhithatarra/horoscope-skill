@@ -11,6 +11,7 @@ The user can ask about the horoscope for a particular zodiac sign and will recie
 
 ## Credits
 samhithatarra
+
 Horoscopes provided by: (c) Kelli Fox, The Astrologer, http://new.theastrologer.com
 
 ## Category
